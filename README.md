@@ -29,7 +29,7 @@ I'm a computer engineer from Brazil 💚 full stack developer and data scientist
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
-* 🛹 Also surfing on microcontrollers stuff.
+
 
 
 ----
