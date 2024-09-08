@@ -21,7 +21,7 @@
 
 Hi, I'm Jhonat. 
 
-I'm a computer engineer from Brazil 💚 full stack developer and data scientist, machine learning, deep learning, and industry enthusiast 4.0, and **5 years of coding** 🧐. 
+I'm a Master in Mechatronic Engineering and computer engineer from Brazil 💚 data scientist, machine learning, deep learning, and industry enthusiast 4.0, and **9 years of coding** 🧐. 
 
 **an aspiring musician** 🎸 and a good **video-game player** 🎮
 
